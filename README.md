@@ -81,7 +81,7 @@
 <body>
   <div class="container">
     <div class="image-section">
-      <img src="brownies-tart.jpg" alt="Brownies Tart Cake" />
+      <img src="IMG_20250723_170651" alt="Brownies Tart Cake" />
     </div>
     <div class="text-section">
       <h1>BROWNIES TART</h1>
